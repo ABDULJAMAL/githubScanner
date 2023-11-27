@@ -1,6 +1,6 @@
 const axios = require('axios');
 
-var GITHUB_TOKEN = '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';
+var GITHUB_TOKEN = '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';
 var GITHUB_API_BASE_URL = 'https://api.github.com';
 
 const githubRequest = async (path) => {
